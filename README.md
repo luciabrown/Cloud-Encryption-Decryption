@@ -4,7 +4,7 @@ _Note_: Certificates are required to run this program. Please generate your own 
 
 Names of the certificates used within this project can be found in the .gitignore
 
-Similar changes will be required to the sample file if you wish to use a different file for encryption and decryption.
+Similar changes will be required to the code and sample file if you wish to use a different file for encryption and decryption.
 
 This project is for testing purposes only and the developer is not responsible for any data loss or exposure which may occur as a result of using the program.
 
