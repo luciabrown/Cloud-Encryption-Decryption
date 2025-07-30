@@ -1,6 +1,6 @@
 # Encrypting and Decrypting Files over the Cloud using Python
 
-Note: Certificates are required to run this program. Please generate your own certificates with an issuer of your choosing and update the code accordingly.
+_Note_: Certificates are required to run this program. Please generate your own certificates with an issuer of your choosing and update the code accordingly.
 
 Names of the certificates used within this project can be found in the .gitignore
 
